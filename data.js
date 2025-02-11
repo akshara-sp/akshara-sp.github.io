@@ -141,13 +141,15 @@ export const footer = [
   
   {
     label: "Links",
-    data: [
-      ,
-      
+    data: [      
       {
-        text: "www.linkedin.com/in/akshara-sivan-pillai",
+        text: "Linkedin",
         link: "https://www.linkedin.com/in/akshara-sivan-pillai",
       },
+      {
+        text: "GitHub",
+        link: "https://github.com/akshara-sp",
+      }
     ],
   },
 ];
